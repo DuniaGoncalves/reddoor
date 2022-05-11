@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Alice-Regular
+font link: https://fonts.google.com/specimen/Alice
+font author: Ksenia Erulevich
+font author site: http://www.cyreal.org/
+
+
+icon designer: James Christopher
+icon designer link: /jchrisa
+        
+
+fontColor: {"hex":"#FF000B"}
+bgColor: {"hex":"#3f4e85"}
+iconColor: {"hex":"#FF000B"}
+
+      
